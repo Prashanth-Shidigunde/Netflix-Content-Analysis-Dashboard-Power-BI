@@ -8,7 +8,7 @@ The dashboard brings key content metrics and visual analysis together in one pla
 
 ## Dashboard Preview
 
-> Add a screenshot of your Power BI dashboard to this repository and replace the placeholder below.
+> screenshot of Power BI dashboard to this repository attached  below.
 
 <img src="netflix dashboard.png" alt="Netflix Content Analysis Dashboard" width="100%">
 
